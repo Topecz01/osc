@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Testing platform for Python3. ## testing the multi desktop output
     working.
+    https://python-osc.readthedocs.io/
+    https://pypi.org/project/python-osc/
+    pip install python-osc
 """
 from pythonosc.udp_client import SimpleUDPClient
 
